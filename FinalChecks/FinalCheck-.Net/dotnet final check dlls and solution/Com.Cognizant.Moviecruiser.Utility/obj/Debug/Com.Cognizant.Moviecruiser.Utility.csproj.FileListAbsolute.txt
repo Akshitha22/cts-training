@@ -1,0 +1,6 @@
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Utility\bin\Debug\Com.Cognizant.Moviecruiser.Utility.dll
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Utility\bin\Debug\Com.Cognizant.Moviecruiser.Utility.pdb
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Utility\obj\Debug\Com.Cognizant.Moviecruiser.Utility.csprojAssemblyReference.cache
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Utility\obj\Debug\Com.Cognizant.Moviecruiser.Utility.csproj.CoreCompileInputs.cache
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Utility\obj\Debug\Com.Cognizant.Moviecruiser.Utility.dll
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Utility\obj\Debug\Com.Cognizant.Moviecruiser.Utility.pdb

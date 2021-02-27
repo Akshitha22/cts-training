@@ -1,0 +1,11 @@
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Dao\Com.Cognizant.Moviecruiser.Dao\bin\Debug\Com.Cognizant.Moviecruiser.Dao.dll
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Dao\Com.Cognizant.Moviecruiser.Dao\bin\Debug\Com.Cognizant.Moviecruiser.Dao.pdb
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Dao\Com.Cognizant.Moviecruiser.Dao\obj\Debug\Com.Cognizant.Moviecruiser.Dao.csproj.CoreCompileInputs.cache
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Dao\Com.Cognizant.Moviecruiser.Dao\obj\Debug\Com.Cognizant.Moviecruiser.Dao.dll
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Dao\Com.Cognizant.Moviecruiser.Dao\obj\Debug\Com.Cognizant.Moviecruiser.Dao.pdb
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Dao\Com.Cognizant.Moviecruiser.Dao\bin\Debug\Com.Cognizant.Moviecruiser.Model.dll
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Dao\Com.Cognizant.Moviecruiser.Dao\bin\Debug\Com.Cognizant.Moviecruiser.Utility.dll
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Dao\Com.Cognizant.Moviecruiser.Dao\bin\Debug\Com.Cognizant.Moviecruiser.Model.pdb
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Dao\Com.Cognizant.Moviecruiser.Dao\bin\Debug\Com.Cognizant.Moviecruiser.Utility.pdb
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Dao\Com.Cognizant.Moviecruiser.Dao\obj\Debug\Com.Cognizant.Moviecruiser.Dao.csprojAssemblyReference.cache
+G:\TRAINING DOCUMENTS\.NET\dotnet final check dlls\Com.Cognizant.Moviecruiser.Dao\Com.Cognizant.Moviecruiser.Dao\obj\Debug\Com.Cognizant.Moviecruiser.Dao.csproj.CopyComplete
